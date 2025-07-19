@@ -21,7 +21,7 @@ if you want your website to be publicly accesible, use: GitHub Pages, Netlify or
 
 Congratulations! You officially coded a website!
 
-If you can't code, here are some links you can use to make your own website, without scripting any code:
+If you can't code html, here are some links you can use to make your own website, without scripting any code:
 
 www.Wix.com
 
