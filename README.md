@@ -1,1 +1,1 @@
-# How to create a website with your phone
+The tutorial is on this website, i made: https://alex-dev-href.github.io/How-to-create-a-website-with-a-phone/
